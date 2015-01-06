@@ -1,0 +1,12 @@
+{
+  "name": "স্পন্দন",
+  "description": "জরুরী অবস্থায় প্রাথমিক চিকিৎসা বিষয়ক সম্পূর্ণ বাংলা ভাষার অ্যাপ",
+  "launch_path": "/html/kit.htm",
+  "icons": {
+    "128": "/picture/logo.jpg"
+  },
+  "developer": {
+    "name": "Alpha Centauri"
+  },
+  "default_locale": "en"
+}
